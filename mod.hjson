@@ -1,0 +1,8 @@
+displayName: "矩阵能源前置"
+name: "MechanicalForce"
+author: "龙晶, 晶化者, dg"
+main: "matrix_energy.MEJavaModTemplate"
+description: "矩阵能源前置"
+version: 0.0.1
+minGameVersion: 146
+java: true
